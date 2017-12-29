@@ -1,4 +1,4 @@
 This is my first Git Demo!
-Change-1 made!
-Change-2 made!
-Change-3 made!
+change-1 made!!
+change-2 made!!
+change-3 made!!
